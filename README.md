@@ -1,4 +1,5 @@
 👋 Hi there, I'm Pratham!
+
 🚀 About Me
 I'm a passionate Machine Learning Enthusiast, Web Developer, and Data Scientist interested in building intelligent solutions and scalable applications. I enjoy exploring the intersection of AI, data, and software engineering.
 
